@@ -1,0 +1,5 @@
+necsend.c:10:6:Star_Submit	16	static
+necsend.c:38:6:Serial_Submit	16	static
+necsend.c:61:6:Submit_Code_Zero	8	static
+necsend.c:69:6:Submit_Code_One	8	static
+necsend.c:95:7:Submit_Data	32	static
